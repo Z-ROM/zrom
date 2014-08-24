@@ -1,0 +1,17 @@
+Welcome to Z-ROM
+===================
+
+
+Getting Started
+---------------
+
+
+To initialize your local repository using the Z-ROM trees, use this command:
+
+
+	repo init -u git://github.com/Z-ROM/zrom.git -b zrom
+
+
+Then sync up with this command:
+
+	repo sync
