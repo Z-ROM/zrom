@@ -520,7 +520,7 @@
   <project path="packages/apps/Settings" name="packages_apps_Settings" remote="zrom" revision="zrom" />
   <project path="packages/providers/DownloadProvider" name="packages_providers_DownloadProvider" remote="zrom" revision="zrom" />
   <project path="packages/services/Telephony" name="packages_services_Telephony" remote="zrom" revision="zrom" />
-  <project path="vendor/zrom" name="android_vendor_zrom" remote="zrom" revision="zrom" >
+  <project path="vendor/zrom" name="vendor_zrom" remote="zrom" revision="zrom" >
     <copyfile src="tools/build-zrom.sh" dest="build-zrom.sh" />
   </project>
   <project path="zrom" name="zrom" remote="zrom" revision="zrom" />
